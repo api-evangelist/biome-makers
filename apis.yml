@@ -1,8 +1,25 @@
 aid: biome-makers
 name: Biome Makers
-description: 'Biome Makers is a company surfaced as a portfolio company of prosus-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: agtech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Biome Makers is a global agricultural technology company founded in 2015 and headquartered
+  in El Macero, California, that uses soil microbiome DNA sequencing and machine learning to measure and
+  restore soil health. Its BeCrop platform decodes the functionality of soil microbial communities across
+  200+ crops in 56+ countries, delivering agronomic recommendations, agricultural-input validation, and
+  supply-chain sustainability benchmarking to farmers, ag retailers, CPG companies, and research labs.
+  Products include BeCrop Farm, BeCrop Test, BeCrop Trials, and BeCrop Rate. BeCrop is accessible via API
+  for large-scale partner integrations, though the developer API is partner-gated and no public OpenAPI
+  specification is currently published.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://biomemakers.com/hubfs/Web%20Images/Logos/Logo%20BMK%20Horizontal%20Light-1.svg
 url: https://raw.githubusercontent.com/api-evangelist/biome-makers/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Agtech
+- Soil Health
+- Soil Microbiome
+- Agriculture
+- DNA Sequencing
+- Machine Learning
+- Sustainability
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,26 @@ maintainers:
 common:
 - type: Website
   url: https://biomemakers.com
+- type: Portal
+  url: https://portal.becrop.com/login
+- type: Login
+  url: https://portal.becrop.com/login
+- type: Support
+  url: https://info.biomemakers.com/support
+- type: Blog
+  url: https://biomemakers.com/blog
+- type: GitHubOrganization
+  url: https://github.com/biomemakers
+- type: TermsOfService
+  url: https://biomemakers.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://biomemakers.com/privacy-policy
+- type: DomainSecurity
+  url: security/biome-makers-domain-security.yml
+- type: LLMsTxt
+  url: llms/biome-makers-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

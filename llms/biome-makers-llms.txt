@@ -1,0 +1,28 @@
+# Biome Makers
+
+> Biome Makers is a global agtech company (founded 2015, El Macero, California) that uses soil microbiome DNA sequencing and machine learning to measure soil health. Its BeCrop platform decodes the functionality of soil microbial communities across 200+ crops in 56+ countries, delivering agronomic recommendations, product validation, and sustainability benchmarking. BeCrop is accessible via API for large ag retailers, CPG companies, and labs, but the developer API is partner/integration-gated and no public OpenAPI specification is currently published.
+
+## Products
+- [BeCrop Farm](https://biomemakers.com/becrop-farm): Data-driven product recommendations, high-definition soil maps, and agronomic insights for farmers and retailers.
+- [BeCrop Test](https://biomemakers.com/becrop-test): Soil microbiome test and functional soil-health analysis.
+- [BeCrop Trials](https://biomemakers.com/becrop-trials): Field-trial and agricultural-input validation.
+- [BeCrop Rate](https://biomemakers.com/becrop-rate): Supply-chain sustainability benchmarking.
+
+## Platform
+- [BeCrop Portal (login)](https://portal.becrop.com/login): Customer platform for analyzing and comparing soil data field-by-field.
+- [BeCrop Advisor Learning Center](https://learningcenter.biomemakers.com/): Training and educational resources.
+- [BeCrop Help Center](https://info.biomemakers.com/support): Support documentation.
+
+## Company
+- [About](https://biomemakers.com/about): Company mission and team.
+- [Technology](https://biomemakers.com/becrop-technology/): BeCrop soil-intelligence technology.
+- [Solutions](https://biomemakers.com/solutions): Product overview.
+- [News](https://biomemakers.com/news): Company and product announcements.
+- [Blog](https://biomemakers.com/blog): Articles and insights.
+- [Contact / Get Started](https://biomemakers.com/contact): Sales and demo requests.
+- [GitHub](https://github.com/biomemakers): Public GitHub organization (forked libraries; no first-party client SDK published).
+
+## Legal
+- [Terms of Use](https://biomemakers.com/terms-of-use)
+- [Privacy Policy](https://biomemakers.com/privacy-policy)
+- [Cookies Policy](https://biomemakers.com/cookies-policy)
