@@ -8,6 +8,17 @@ description: 'Biome Makers is a global agricultural technology company founded i
   Products include BeCrop Farm, BeCrop Test, BeCrop Trials, and BeCrop Rate. BeCrop is accessible via API
   for large-scale partner integrations, though the developer API is partner-gated and no public OpenAPI
   specification is currently published.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
